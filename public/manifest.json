@@ -1,0 +1,20 @@
+{
+  "name": "Focus - Progressive Web App",
+  "short_name": "Focus",
+  "description": "A minimalist progressive web app for focus training and mastery",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "health", "lifestyle"],
+  "lang": "en"
+}
